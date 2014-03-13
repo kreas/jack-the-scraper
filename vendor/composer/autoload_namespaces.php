@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
     'SimpleHtmlDom' => array($vendorDir . '/amstaff/simplehtmldom/lib'),
+    'Klein' => array($vendorDir . '/klein/klein'),
 );

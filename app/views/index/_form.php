@@ -16,6 +16,7 @@
       <input type="text" name="secondURL" id="secondURL" value="<?php echo $secondURL ?>"/>
     </div><!-- /.small-12 -->
     <div class="small-12 columns text-right">
+      <a href="/" class="button secondary small">Clear</a> &nbsp;
       <button class="button small">Go</button>
     </div><!-- /.small-12 -->
   </fieldset>

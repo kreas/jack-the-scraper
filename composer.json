@@ -1,6 +1,7 @@
 {
   "require": {
     "phpunit/phpunit": "4.0",
-    "amstaff/simplehtmldom": "dev-master"
+    "amstaff/simplehtmldom": "dev-master",
+    "klein/klein": "v2.0"
   }
 }
