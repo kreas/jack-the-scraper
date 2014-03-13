@@ -23,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="image_collection.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/image_collection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="5" selection-start="424" selection-end="424" vertical-scroll-proportion="-9.037037" vertical-offset="44" max-vertical-offset="1026">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="image_collection_test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/models/image_collection_test.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,10 +50,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_form.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/index/_form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="956" selection-end="956" vertical-scroll-proportion="0.41465968" vertical-offset="0" max-vertical-offset="955">
+            <state line="22" column="7" selection-start="956" selection-end="956" vertical-scroll-proportion="-14.666667" vertical-offset="0" max-vertical-offset="504">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.018329939" vertical-offset="0" max-vertical-offset="982">
               <folding />
             </state>
           </provider>
@@ -146,6 +146,7 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.php" />
         <option value="$PROJECT_DIR$/app/index.php" />
         <option value="$PROJECT_DIR$/app/views/index/_form.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -501,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="982">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="959">
@@ -580,7 +574,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/index/_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="956" selection-end="956" vertical-scroll-proportion="0.41465968" vertical-offset="0" max-vertical-offset="955">
+        <state line="22" column="7" selection-start="956" selection-end="956" vertical-scroll-proportion="-14.666667" vertical-offset="0" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="16" selection-end="16" vertical-scroll-proportion="0.018329939" vertical-offset="0" max-vertical-offset="982">
           <folding />
         </state>
       </provider>
