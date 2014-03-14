@@ -1,19 +1,15 @@
 <?php
 
 /**
- * postParam
+ * Populate input value
  *
- * @param $param if the param is set return it if not return an empty string
+ * If an input value has been set display it. If not display null rather than a warning.
+ * @param string $val
+ * @return string
  */
-if( ! function_exists('postParam')){
-
-  function postParam($param)
+if( ! function_exists('inputValue')){
+  function inputValue($val)
   {
-    if(isset($param)){
-      return $param;
-    } else {
-      return "";
-    }
+    echo isset($val) ? $val : null;
   }
-
 }

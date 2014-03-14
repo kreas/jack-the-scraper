@@ -1,5 +1,3 @@
 <?php
-  $firstURL = '';
-  $secondURL = '';
 
-  include '_form.php';
+include '_form.php';

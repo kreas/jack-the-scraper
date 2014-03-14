@@ -1,7 +1,6 @@
 <?php
+require 'app/models/Image.php';
 
-require '../../app/models/image.php';
-
-class ArticleTest extends PHPUnit_Framework_TestCase{
-
+class ImageTest extends PHPUnit_Framework_TestCase{
+  //This is where my tests would go, If I had some.
 }
